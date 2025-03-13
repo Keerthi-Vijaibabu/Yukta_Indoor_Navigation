@@ -1,0 +1,31 @@
+from,to,distance
+101,102,5
+102,Boys' Restroom0,5
+Boys' Restroom0,lift_0,4
+103,104,5
+Staircase_0,101,
+104,Staircase_0,5
+Lift_0,103,4
+202,Girls' Restroom1,5
+201,202,5
+Girls' Restroom1,lift_1,5
+lift_1,203,5
+203,204,5
+204,Staircase_1,3
+301,302,5
+302,303,5
+303,Girls' Restroom1,5
+Girls' Restroom1,Lift_2,5
+Lift_2,304,5
+304,305,5
+305,306,3
+306,Staircase_2,3
+401,402,5
+402,403,5
+403,Boys' Restroom0,5
+Boys' Restroom0,Lift_3,5
+Lift_3,404,5
+404,405,5
+405,406,3
+406,Staircase_3,3
+Staircase_3,401,4
