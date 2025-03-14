@@ -1,0 +1,21 @@
+room_id,name,floor,x,y
+101,SAP Lab,0,232,211
+102,Cisco Lab,0,408,211
+103,Cloud & Data Analytics Lab,0,480,300
+104,Computer Centre,0,230,300
+201,Classroom,1,0,0
+202,Mobile & IoT Lab,1,0,0
+203,Research Lab,1,0,0
+204,HOD & Department Office,1,0,0
+301,Classroom,2,0,0
+302,NMC / Server Room,2,0,0
+303,Department Library,2,0,0
+304,Seminar Hall,2,0,0
+305,Classroom,2,0,0
+306,Classroom,2,0,0
+401,Classroom,3,0,0
+402,Wellness Centre,3,0,0
+403,Computer Maintenance Cell,3,0,0
+404,Peer Learning Hall,3,0,0
+405,Classroom,3,0,0
+406,Classroom,3,0,0

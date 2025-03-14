@@ -1,0 +1,13 @@
+facility_id,name,floor,x,y
+l0,Lift,0,518,259
+s0,Staircase,0,121,259
+b0,Boys' Restroom,0,508,217
+l1,Lift,1,0,0
+s1,Staircase,1,0,0
+g1,Girls' Restroom,1,0,0
+l2,Lift,2,0,0
+s2,Staircase,2,0,0
+g2,Girls' Restroom,2,0,0
+l3,Lift,3,0,0
+l3,Staircase,3,0,0
+b3,Boys' Restroom,3,0,0
